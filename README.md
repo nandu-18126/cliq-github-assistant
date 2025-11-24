@@ -1,1 +1,1 @@
-# cliq-github-assistant
+extending github in zohocliq
